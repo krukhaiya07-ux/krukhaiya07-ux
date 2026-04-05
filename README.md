@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nisa 👋</h1>
+<h1 align="center">Hi, I'm Rukhaiya Khatib 👋</h1>
 
 <p align="center">
   <strong>Engineering Student · Aspiring Software Developer · Future Web & App Builder</strong>
@@ -58,10 +58,10 @@ My repositories document this journey in real time — from fundamentals to full
 ## 📂 Projects
 
 > 🚧 **Actively building.** Projects will be added here as I complete them — 
-| Project | Description | Tech | Status |
-|--------|-------------|------|--------|
-| Coming soon | JavaScript fundamentals practice | JS | 🔨 In Progress |
-| Coming soon | DSA and OOPS solutions in Java | Java | 🔨 In Progress |
+| Project     | Description                      | Tech | Status         |
+|-------------|----------------------------------|------|----------------|
+| Coming soon | JavaScript fundamentals practice | JS   | 🔨 In Progress |
+| Coming soon | DSA and OOPS solutions in Java   | Java | 🔨 In Progress |
 
 ---
 
